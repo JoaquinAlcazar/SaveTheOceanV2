@@ -1,2 +1,2 @@
-# Save The Ocean UML proposat
-![texto_alternativo](https://github.com/JoaquinAlcazar/SaveTheOcean/blob/master/SaveTheOceanUML.drawio.png?raw=true)
+# What is this even about?
+Save the Ocean is a simple game that consists in deciding whether to help animals in need immediately or take them to your center.
